@@ -1,0 +1,9 @@
+button{
+    outline: none;
+}
+ td span{
+    cursor: pointer;
+}
+ tr,th{
+     text-align: center;
+ }
